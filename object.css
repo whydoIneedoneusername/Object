@@ -1,0 +1,42 @@
+.heading
+{
+font-size: 50px;
+width: 100%;
+margin: 0px;
+font: blue;
+}
+
+#Bedroom
+{
+    font-size: 30px;
+   
+}
+#water
+{
+font-size: 30px;
+
+}
+
+#livingRoom1
+{
+    font-size: 30px;
+   
+}
+
+#livingRoom2
+{
+    font-size: 30px;
+   
+}
+
+#Basement
+{
+    font-size: 30px;
+  
+}
+
+body
+{
+    background-size:cover;
+    background-position:center;
+}
